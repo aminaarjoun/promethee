@@ -1,0 +1,5 @@
+c:\users\do duc dong\documents\visual studio 2010\Projects\PROMETHEE\PROMETHEE\bin\Debug\PROMETHEE.exe
+c:\users\do duc dong\documents\visual studio 2010\Projects\PROMETHEE\PROMETHEE\bin\Debug\PROMETHEE.pdb
+c:\users\do duc dong\documents\visual studio 2010\Projects\PROMETHEE\PROMETHEE\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\do duc dong\documents\visual studio 2010\Projects\PROMETHEE\PROMETHEE\obj\x86\Debug\PROMETHEE.exe
+c:\users\do duc dong\documents\visual studio 2010\Projects\PROMETHEE\PROMETHEE\obj\x86\Debug\PROMETHEE.pdb
