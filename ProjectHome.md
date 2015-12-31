@@ -1,0 +1,1 @@
+PROMETHEE-Decision making in stock trading
